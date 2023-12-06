@@ -1,14 +1,11 @@
-import Heading from './components/Heading.js';
-import Para from './components/Para.js';
+
 import './App.css';
 
 function App() {
   return (
-    <div>
-     
- 
-
-    </div>
+     <div>
+      <h2  className='bg-black  text-white ' >Lorem ipsum dolor sit.</h2>
+     </div>
   );
 }
 
